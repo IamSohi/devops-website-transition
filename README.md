@@ -5,7 +5,7 @@ A hands-on experience with transitioning a traditional website to a more DevOps-
 # Application Architecture
 
 <p align="center">
-<img src="Diagram/DevOps_Architecture_Diagram.jpg" width="45%"/>
+<img src="Diagram/DevOps_Architecture_Diagram.jpg" width="75%"/>
 </p>
 
 # Explaination:
